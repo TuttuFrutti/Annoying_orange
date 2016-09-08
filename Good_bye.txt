@@ -1,0 +1,1 @@
+Print ("good bye, all world");
